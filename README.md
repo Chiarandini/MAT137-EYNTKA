@@ -5,7 +5,7 @@ currently, I've got:
 2. derivatives
 3. existence theorems (IVT, EVT, MVT)
 4. squeeze theorem
-5. supremum
+5. supremum and infimum
 6. integrability
 7. application of integration
 8. volumes
