@@ -10,9 +10,9 @@ currently, I've got:
 7. application of integration
 8. volumes
 9. sequences and series
+10. Power and Taylor Series
 
 ones to do: 
 a. first order predicate logic
-b. taylor series
 
 If there's anything I missed, send me a text!
